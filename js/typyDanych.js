@@ -26,6 +26,9 @@ var wyplataStr = "5000";
 var premiaStr = "2500";
 var calkowitaWyplataStr;
 
+/* calkowitaWyplataStr = wyplataStr  + ' "dodajemy" ' premiaStr; */
+/*                                      "\"dodajemy"\"   */
+
 calkowitaWyplataStr = wyplataStr + premiaStr;
 
 console.log(calkowitaWyplataStr);
