@@ -15,3 +15,17 @@ var calkowitaWyplata;
 calkowitaWyplata = wyplata + premia;
 
 console.log(calkowitaWyplata);
+
+/*
+
+Typ - łańcuch znaków -string
+
+*/
+
+var wyplataStr = "5000";
+var premiaStr = "2500";
+var calkowitaWyplataStr;
+
+calkowitaWyplataStr = wyplataStr + premiaStr;
+
+console.log(calkowitaWyplataStr);
