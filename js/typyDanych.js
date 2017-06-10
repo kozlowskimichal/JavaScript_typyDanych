@@ -32,3 +32,23 @@ var calkowitaWyplataStr;
 calkowitaWyplataStr = wyplataStr + premiaStr;
 
 console.log(calkowitaWyplataStr);
+
+
+var imieStudenta = " Michał";
+console.log(imieStudenta.indexOf('c'));
+console.log(imieStudenta);
+console.log(imieStudenta.trim());
+
+
+/*Typ logiczny -boolean*/
+
+
+var czyJestSmog;
+czyJestSmog =false;
+
+if (czyJestSmog) {
+    console.log("Jest SMOG");
+}  else {
+    console.log("Nie ma SMOGa ;)");
+}
+
