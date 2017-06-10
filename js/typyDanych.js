@@ -52,3 +52,7 @@ if (czyJestSmog) {
     console.log("Nie ma SMOGa ;)");
 }
 
+
+
+
+
